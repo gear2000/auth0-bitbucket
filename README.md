@@ -24,5 +24,6 @@ User Account:
      * We will export these environmental variables
 
      e.g.
-     export BITBUCKET_CLIENT_ID=KeyJx24sbQYxvXvpNeEg3
-     export BITBUCKET_SECRET=SecretwR8wxbcDNBWsku8qTqxU8RrRCubjpSP3
+
+       * export BITBUCKET_CLIENT_ID=KeyJx24sbQYxvXvpNeEg3
+       * export BITBUCKET_SECRET=SecretwR8wxbcDNBWsku8qTqxU8RrRCubjpSP3
