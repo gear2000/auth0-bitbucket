@@ -18,8 +18,12 @@ User Account:
      * Login into the domain Bitbucket Account
      * Go to "Bitbucket settings" -> Access Management -> OAuth - OAuth consumer
      * Add consumer shown
+
+       ![](oauth-consumer-1.png)
+
      * Take note of the client id/secret as shown
 
+       ![](oauth-consumer-2.png)
 
      * We will export these environmental variables
 
