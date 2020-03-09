@@ -31,3 +31,13 @@ User Account:
 
        * export BITBUCKET_CLIENT_ID=KeyJx24sbQYxvXvpNeEg3
        * export BITBUCKET_SECRET=SecretwR8wxbcDNBWsku8qTqxU8RrRCubjpSP3
+
+# The Code
+
+   - The entry point is the method "get_user_access_token", which once the user signs up through Auth0 will:
+
+      * connects to Auth0 and gets the user info including the refresh token
+      # use the refresh token to get access token directly from Bitbucket
+# The Flow
+
+* 
