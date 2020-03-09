@@ -32,6 +32,8 @@ User Account:
         * AUTH0_CLIENT_ID
         * AUTH0_CLIENT_SECRET
         * AUTH0_DOMAIN
+        * BITBUCKET_CLIENT_ID
+        * BITBUCKET_SECRET
 
    - The entry point is the method "get_user_access_token", which once the user signs up through Auth0 will:
 
