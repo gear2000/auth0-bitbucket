@@ -35,7 +35,7 @@ User Account:
         * BITBUCKET_CLIENT_ID
         * BITBUCKET_SECRET
 
-   - The entry point is the method "get_user_access_token", which once the user signs up through Auth0 will:
+   - The entry point is the method "get_user_access_token", which once the user signs up Bitbucket with Auth0 as a broker
 
       * connects to Auth0 and gets the user info including the refresh token
       * use the refresh token to get access token directly from Bitbucket
